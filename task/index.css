@@ -1,0 +1,20 @@
+.commonImage {
+    height: 50px;
+    width: 50px;
+}
+
+.tableHeader {
+    align-items: center;
+    color: brown;
+    background-color: aqua;
+
+}
+
+#product-grids {
+    width: 100%;
+}
+
+#tdata {
+    align-items: center;
+    text-align: center;
+}
